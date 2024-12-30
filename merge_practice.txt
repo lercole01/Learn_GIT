@@ -2,3 +2,5 @@ This will be my first attempt at merging.
 Add on new branch.
 Third line.
 Master line, line 4.
+
+Extra line for git diff check
